@@ -56,6 +56,6 @@ del{
 
 @media screen and (max-width : 992px) {
   .header{
-    width: 50px;
+    width: 100px;
    }
 }

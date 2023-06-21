@@ -51,3 +51,10 @@ body {
 del{
   text-decoration: line-through;
 }
+
+
+@media screen and (max-width : 450px) {
+    body{
+      padding: 10px;
+    }
+}

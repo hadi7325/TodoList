@@ -55,7 +55,8 @@ del{
 
 
 @media screen and (max-width : 992px) {
-  .header{
-    width: 100px;
-   }
+  .layout {
+   
+    width: 100%;
+  }
 }

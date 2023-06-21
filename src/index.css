@@ -53,8 +53,9 @@ del{
 }
 
 
-@media screen and (max-width : 450px) {
-    body{
-      padding: 10px;
-    }
+
+@media screen and (max-width : 992px) {
+  .header{
+    width: 50px;
+   }
 }
